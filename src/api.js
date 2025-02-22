@@ -27,7 +27,6 @@ export const loadFoglalasok = async () => {
 
 const API_URL = '/foglalasok.json';
 
-// Foglalások lekérése (GET)
 export const getFoglalasok = async () => {
   try {
     const response = await fetch(API_URL);
@@ -41,12 +40,10 @@ export const getFoglalasok = async () => {
   }
 };
 
-// Új foglalás hozzáadása (POST szimuláció)
 export const addFoglalas = async (ujFoglalas) => {
   try {
     console.log('Új foglalás elküldése:', ujFoglalas);
 
-    // Mivel nincs valódi backend, csak logoljuk az új foglalást
     alert('Foglalás sikeresen hozzáadva!');
 
     return ujFoglalas;
