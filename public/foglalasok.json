@@ -1,0 +1,37 @@
+[
+  {
+    "cim": "Ásvány utca 24/b.",
+    "datum": "2025-02-14T22:00",
+    "fo": 2,
+    "iranyitoszam": 1173,
+    "nev": "Kiss Virág"
+  },
+  {
+    "cim": "Dongó utca 10.",
+    "datum": "2025-03-01T18:30",
+    "fo": 4,
+    "iranyitoszam": 1149,
+    "nev": "Ezüst Anna"
+  },
+  {
+    "cim": "Lepke utca 15/a.",
+    "datum": "2025-02-20T15:30",
+    "fo": 6,
+    "iranyitoszam": 1026,
+    "nev": "Fehér Bálint"
+  },
+  {
+    "cim": "Oltárkő utca 2.",
+    "datum": "2025-03-11T17:00",
+    "fo": 4,
+    "iranyitoszam": 1223,
+    "nev": "Szathmáry Édua"
+  },
+  {
+    "cim": "Fehér-Hegy utca 33.",
+    "datum": "2025-02-26T20:30",
+    "fo": 6,
+    "iranyitoszam": 1222,
+    "nev": "Aranyi Márk"
+  }
+]
